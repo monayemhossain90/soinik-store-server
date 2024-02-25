@@ -1,0 +1,1 @@
+# soinik-store-api
